@@ -3,15 +3,18 @@ What
 
 PHPKeychain is a PHP wrapper for storing and retrieving passwords in OS X Keychain.
 
+
 Why
 ===
 
 You've written a CLI tool that interacts with a 3rd party service and you need to store a users sensitive details such as passwords. You could store this in a plain text file, but OS X has Keychain, so this will help you to do this.
 
+
 How
 ===
 
 Include this class in your CLI script and use the methods to set, get, update and delete passwords, all stored within Keychain.
+
 
 Methods
 =======
