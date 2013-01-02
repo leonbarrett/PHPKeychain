@@ -1,0 +1,8 @@
+{
+	"name": "leonbarrett/keychain",
+	"description": "A PHP wrapper for storing and retrieving passwords in OS X Keychain",
+	"keywords": ["php", "keychain", "cli"],
+	"require": {
+		"php": ">=5.3.6"
+	}
+}
