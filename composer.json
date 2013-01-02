@@ -5,4 +5,14 @@
 	"require": {
 		"php": ">=5.3.6"
 	}
+	"homepage": "http://leonbarrett.github.com/PHPKeychain/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leon Barrett",
+            "email": "leon@leonbarrett.com",
+            "homepage": "http://thisisleon.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
 }
